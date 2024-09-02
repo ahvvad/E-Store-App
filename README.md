@@ -1,13 +1,9 @@
-# Flutter application
-#### "E Store App"
-
-
-
-
+# E Store App
 
 ## Pages
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/f36b31e2-bbe5-4f5f-b9f9-4bf7bd6b0dec" width="398" />
-  <img src="https://github.com/user-attachments/assets/f86bda36-69f4-44d8-a977-08c3314cde49" width="400" />
+  <img src="https://github.com/user-attachments/assets/8e405874-fb9d-4ac3-8d90-55e24426beef" width="400" />
+  <img src="https://github.com/user-attachments/assets/380f12be-ce12-4384-a767-d3a1a62adf53" width="400" />
 </div>
+

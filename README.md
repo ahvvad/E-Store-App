@@ -1,6 +1,10 @@
 # E Store App
 
-## Pages
+#### I remade this app for learning.
+
+###### this app created by : https://youtube.com/playlist?list=PLw6Y5u47CYq6KUSFOumqVFZHdMRADJOtK&si=wNLclwEr9qFfxf7F
+
+## Preview :
 
 <div style="display: flex; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/8e405874-fb9d-4ac3-8d90-55e24426beef" width="400" />
